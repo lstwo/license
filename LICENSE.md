@@ -1,20 +1,20 @@
 # lstwoSTUDIOS License v3.0
 
-Copyright © lstwoSTUDIOS 2024 - 2025
+Copyright © lstwoSTUDIOS 2024 - 2026
 
 ## What you can do:
 
-- You may use and modify this project.
-- You may use small pieces of code in your own projects as long as they do not closely resemble this one.
-- You may share modified versions of this project privately.
+- You may use and modify my work.
+- You may use portions of the work in your own works as long as they do not closely resemble this one.
+- You may share modified versions of this work privately.
 - You may request permission for broader use.
 
 ## What you cannot do:
 
-- You may not use this project commercially without my permission.
-- You may not republish, rehost, or redistribute modified or unmodified copies of this project without my permission.
-- You may not falsely credit others for this work or claim it as your own. You must clearly credit me (the original author with links to the project).
-- You may not use this project for malicious, harmful, or unethical purposes without my permission.
+- You may not use my work commercially without my permission.
+- You may not republish, rehost, or redistribute modified or unmodified copies of my work without my permission.
+- You may not falsely credit others for my work or claim it as your own. You must clearly credit me (the original author with links to the project).
+- You may not use my work for malicious, harmful, or unethical purposes without my permission.
 - You may not remove or alter this license in redistributed versions.
 
 ## Permission:
@@ -26,3 +26,7 @@ Copyright © lstwoSTUDIOS 2024 - 2025
 
 - Any attempt to circumvent, reinterpret, or exploit this license or its spirit is considered a violation.
 - The README of this project may state more terms that can modify terms of this license as long as those were written by the original author (lstwo)
+
+## TL;DR
+
+credit me and dont steal
